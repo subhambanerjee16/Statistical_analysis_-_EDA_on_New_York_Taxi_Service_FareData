@@ -1,0 +1,2 @@
+# Statistical_analysis_-_EDA_on_New_York_Taxi_Service_FareData
+A cab rental start-up company has successfully run the pilot project and now wants to launch their cab service across the country. After collecting the historical data from the pilot project, the certain variables are obtained which leads to the fare amount. The project is based on the Forecasting/Prediction type of data science problem statement.
